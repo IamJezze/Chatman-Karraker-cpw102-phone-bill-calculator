@@ -2,7 +2,6 @@
 
 **Team members:**
 Chatman-Karraker
-
 Translate the problem statement into requirements. Keep answers brief.
 
 ## User and goal
@@ -10,8 +9,12 @@ Translate the problem statement into requirements. Keep answers brief.
 **Who will use this program?**
 Clients of a particular phone carrier
 
+Clients that use the phone carrier
+
 **What problem will it help them solve?**
 How much data they're using and how much they're going over, if at all.
+
+Help the client stay within the limits of their data
 
 ## Requirements
 
@@ -20,5 +23,6 @@ Write each requirement as “The program must…” in your own words. Cover the
 1. The program must calculate the amount of GB used.
 2. The program must know the cost of overage limits.
 3. The program mustgive the user the total amount and if they are over, and how much they are over by.
+
 
 
